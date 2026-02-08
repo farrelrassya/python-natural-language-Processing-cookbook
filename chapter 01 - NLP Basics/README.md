@@ -6,8 +6,8 @@ Hands-on notebooks covering fundamental Natural Language Processing (NLP) prepro
 
 | # | Notebook | Topics |
 |---|---|---|
-| 1 | `Learning_NLP_Basics.ipynb` | Sentence splitting, Word tokenization |
-| 2 | `Learning_NLP_Basics_Part2.ipynb` | POS tagging, Lemmatization, Stopword removal |
+| 1 | `Learning_NLP_01.ipynb` | Sentence splitting, Word tokenization |
+| 2 | `Learning_NLP_02.ipynb` | POS tagging, Lemmatization, Stopword removal |
 
 ## What You'll Learn
 
