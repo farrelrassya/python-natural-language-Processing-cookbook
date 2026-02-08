@@ -1,4 +1,4 @@
-# 📘 Learning NLP Basics
+# Learning NLP Basics
 
 Hands-on notebooks covering fundamental Natural Language Processing (NLP) preprocessing techniques using **NLTK**, **spaCy**, and the **OpenAI API**.
 
